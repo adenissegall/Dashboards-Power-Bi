@@ -5,5 +5,6 @@ Sales Dashboard: https://app.powerbi.com/view?r=eyJrIjoiZDkwMGEyNmQtOWE0Ni00YjRl
 ![image](https://user-images.githubusercontent.com/90048678/153669510-205a3b8b-4291-4483-9a47-b3af9e4bad3f.png)
 
 
-This is a dashboard about players and matches data of Counter Strike Global Offensive: https://app.powerbi.com/view?r=eyJrIjoiNWZhYzZiNzAtZTdiMC00NTdmLTk5MjktNzY4MzMwNTAyMGVhIiwidCI6IjIwZjRmYWIyLWE3NTUtNGU0OC1iNThiLWQ2YTA2NTU4YzQzMiJ9&pageName=ReportSection
+This is a dashboard about players and matches data of Counter Strike Global Offensive: https://app.powerbi.com/view?r=eyJrIjoiNWZhYzZiNzAtZTdiMC00NTdmLTk5MjktNzY4MzMwNTAyMGVhIiwidCI6IjIwZjRmYWIyLWE3NTUtNGU0OC1iNThiLWQ2YTA2NTU4YzQzMiJ9&pageName=ReportSection<br>
+![image](https://user-images.githubusercontent.com/90048678/153669629-6c678a9f-f830-4c59-bfec-c5725d5742a5.png)
 
